@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		19B65C1A25C8FF86008063AB /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B65C1925C8FF86008063AB /* SettingView.swift */; };
 		19EE2B6B25C7A937006B94D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19EE2B6A25C7A937006B94D6 /* AppDelegate.swift */; };
 		19EE2B6D25C7A937006B94D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19EE2B6C25C7A937006B94D6 /* SceneDelegate.swift */; };
 		19EE2B6F25C7A937006B94D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19EE2B6E25C7A937006B94D6 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		19B65C1925C8FF86008063AB /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		19EE2B6725C7A937006B94D6 /* YoutubeUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		19EE2B6A25C7A937006B94D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		19EE2B6C25C7A937006B94D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				19EE2B7525C7A939006B94D6 /* LaunchScreen.storyboard */,
 				19EE2B7825C7A939006B94D6 /* Info.plist */,
 				19EE2B7225C7A939006B94D6 /* Preview Content */,
+				19B65C1925C8FF86008063AB /* SettingView.swift */,
 			);
 			path = YoutubeUI;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				19EE2B6B25C7A937006B94D6 /* AppDelegate.swift in Sources */,
+				19B65C1A25C8FF86008063AB /* SettingView.swift in Sources */,
 				19EE2B6D25C7A937006B94D6 /* SceneDelegate.swift in Sources */,
 				19EE2B6F25C7A937006B94D6 /* ContentView.swift in Sources */,
 			);
